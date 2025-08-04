@@ -71,7 +71,7 @@ nav a:hover::after {
 
 /* Hero */
 #hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.322), rgba(0, 0, 0, 0.603)), url('public/codigo.jpg') no-repeat center center;
+    background: linear-gradient(rgba(0, 0, 0, 0.322), rgba(0, 0, 0, 0.603)), url('public/img/codigo.avif') no-repeat center center;
     background-size: cover;
     height: 100vh;
     display: flex;
